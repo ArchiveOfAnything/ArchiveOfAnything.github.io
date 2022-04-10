@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="https://ArchiveOfAnything.github.io/g/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Packages</title>
+  <id>http://ArchiveOfAnything.github.io/Packages</id>
+  <updated>2022-04-10T15:36:13Z</updated>
+  <link rel="self" title="Packages" href="Packages" />
+  <entry>
+    <id>http://ArchiveOfAnything.github.io/g/Packages(Id='anygetclassic',Version='0.5 beta')</id>
+    <title type="text">anygetclassic</title>
+    <summary type="text"> TEXNIK AnyGet Classic 0.5 BETA </summary>
+    <updated>2022-04-10T19:43:11Z</updated>
+    <author>
+      <name> TEXNIK, OmegaTools, AV </name>
+    </author>
+    <link rel="edit-media" title="V2FeedPackage" href="Packages(Id='anygetclassic',Version='0.5 beta')/$value" />
+    <link rel="edit" title="V2FeedPackage" href="Packages(Id='anygetclassic',Version='0.5 beta')" />
+    <category term="CCR.Website.V2FeedPackage" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/zip" src="https://ArchiveOfAnything.github.io/a/package/anygetclassic/0.5 beta" />
+    <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+      <d:Version> 5.0 BETA </d:Version>
+      <d:Title> TEXNIK AnyGet Classic </d:Title>
+      <d:Description>anyget 0.5 beta</d:Description>
+      <d:Tags xml:space="preserve"> anyget texik omegatools av file binary download net client aaaalaaaa </d:Tags>
+      <d:Copyright> TEXNIK, OmegaTools, AV </d:Copyright>
+      <d:Created m:type="Edm.DateTime">2022-04-10T19:50:19.000</d:Created>
+      <d:Dependencies>texengine.anycore:[1.0]:</d:Dependencies>
+      <d:DownloadCount m:type="Edm.Int32">0</d:DownloadCount>
+      <d:VersionDownloadCount m:type="Edm.Int32">0</d:VersionDownloadCount>
+      <d:GalleryDetailsUrl>https://ArchiveOfAnything.github.io/gg/packages/anyget/classic/0.5/beta</d:GalleryDetailsUrl>
+      <d:ReportAbuseUrl>https://ArchiveOfAnything.github.io/gg/packages/ReportAbuse/anyget/classic/0.5/beta</d:ReportAbuseUrl>
+      <d:IconUrl>https://ArchiveOfAnything.github.io/gg/packages/anyget/classic/0.5/beta/icons/Chocolatey-packages@0/icons/anyget/classic/0.5/beta/anygeticon/anyget.png</d:IconUrl>
+      <d:IsLatestVersion m:type="Edm.Boolean">false</d:IsLatestVersion>
+      <d:IsAbsoluteLatestVersion m:type="Edm.Boolean">false</d:IsAbsoluteLatestVersion>
+      <d:IsPrerelease m:type="Edm.Boolean">true</d:IsPrerelease>
+      <d:Language m:null="true">ru-RU</d:Language>
+      <d:Published m:type="Edm.DateTime">2022-04-10T19:54:39.000</d:Published>
+      <d:LicenseUrl>https://ArchiveOfAnything.github.io/gg/packages/anyget/classic/0.5/beta/manual/License.htm</d:LicenseUrl>
+      <d:RequireLicenseAcceptance m:type="Edm.Boolean">true</d:RequireLicenseAcceptance>
+      <d:PackageHash></d:PackageHash>
+      <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+      <d:PackageSize m:type="Edm.Int64">567</d:PackageSize>
+      <d:ProjectUrl>https://ArchiveOfAnything.github.io/packages/anyget/classic/0.5/beta/</d:ProjectUrl>
+      <d:ReleaseNotes></d:ReleaseNotes>
+      <d:ProjectSourceUrl></d:ProjectSourceUrl>
+      <d:PackageSourceUrl></d:PackageSourceUrl>
+      <d:DocsUrl>https://ArchiveOfAnything.github.io/gg/packages/anyget/classic/0.5/beta/manual/</d:DocsUrl>
+      <d:MailingListUrl></d:MailingListUrl>
+      <d:BugTrackerUrl></d:BugTrackerUrl>
+      <d:IsApproved m:type="Edm.Boolean">true</d:IsApproved>
+      <d:PackageStatus>Approved</d:PackageStatus>
+      <d:PackageSubmittedStatus>Waiting</d:PackageSubmittedStatus>
+      <d:PackageTestResultUrl></d:PackageTestResultUrl>
+      <d:PackageTestResultStatus>Passing</d:PackageTestResultStatus>
+      <d:PackageTestResultStatusDate m:type="Edm.DateTime">2022-04-10T19:59:25.024</d:PackageTestResultStatusDate>
+      <d:PackageValidationResultStatus>Passing</d:PackageValidationResultStatus>
+      <d:PackageValidationResultDate m:type="Edm.DateTime">2022-04-10T19:59:55.754</d:PackageValidationResultDate>
+      <d:PackageCleanupResultDate m:type="Edm.DateTime" m:null="true"></d:PackageCleanupResultDate>
+      <d:PackageReviewedDate m:type="Edm.DateTime">2022-04-10T20:00:34.887</d:PackageReviewedDate>
+      <d:PackageApprovedDate m:type="Edm.DateTime">2022-04-10T20:01:04.887</d:PackageApprovedDate>
+      <d:PackageReviewer></d:PackageReviewer>
+      <d:IsDownloadCacheAvailable m:type="Edm.Boolean">false</d:IsDownloadCacheAvailable>
+      <d:DownloadCacheStatus>Checked</d:DownloadCacheStatus>
+      <d:DownloadCacheDate m:type="Edm.DateTime">2020-09-07T08:27:28.003</d:DownloadCacheDate>
+      <d:DownloadCache m:null="true"></d:DownloadCache>
+      <d:PackageScanStatus>NotFlagged</d:PackageScanStatus>
+      <d:PackageScanResultDate m:type="Edm.DateTime">2022-04-10T20:01:49.6738</d:PackageScanResultDate>
+      <d:PackageScanFlagResult m:null="true"></d:PackageScanFlagResult>
+    </m:properties>
+  </entry>
+  
+  <link rel="next" href="https://ArchiveOfAnything.github.io/g/Packages?$skiptoken='0install','2.10.0'" />
+</feed>
